@@ -1,0 +1,11 @@
+Student_ID,Full_Name,Dept_Info,Math,Physics,Chemistry,Programming,Attendance
+S101,Aarav Sharma,CSE-01,85,90%,88,95,85%
+S102,Priya Verma,ECE-02,,75%,80,85,90%
+S103,Rohan Gupta,CSE-01,78,82%,,88,78%
+S104,Sneha Patel,IT-03,92,88%,90,96,95%
+S105,Aditya Rao,MECH-04,45,,50,60,65%
+S106,Ananya Singh,CSE-01,88,91%,85,92,88%
+S107,Rahul Nair,ECE-02,,70%,75,80,72%
+S108,Kavya Reddy,IT-03,95,94%,92,98,98%
+S109,Vikram Joshi,CSE-01,67,60%,58,72,80%
+S110,Pooja Iyer,ECE-02,82,85%,80,89,91%
